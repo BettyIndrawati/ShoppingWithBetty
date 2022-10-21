@@ -1,0 +1,12 @@
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\bin\Debug\net6.0\ShoppingWithBetty.Utility.deps.json
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\bin\Debug\net6.0\ShoppingWithBetty.Utility.dll
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\bin\Debug\net6.0\ShoppingWithBetty.Utility.pdb
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.csproj.AssemblyReference.cache
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.AssemblyInfoInputs.cache
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.AssemblyInfo.cs
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.csproj.CoreCompileInputs.cache
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.dll
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\refint\ShoppingWithBetty.Utility.dll
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.pdb
+C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ref\ShoppingWithBetty.Utility.dll
