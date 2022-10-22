@@ -17,8 +17,9 @@ namespace ShoppingWithBetty.Models
         [Required]
         public double Price { get; set; }
         [ValidateNever]
+        public string Description { get; set; }
         public string ImageUrl { get; set; }
-  
+
         public string CatagoryId { get; set; }
         [ValidateNever]
         public Catagory Catagory { get; set; }
