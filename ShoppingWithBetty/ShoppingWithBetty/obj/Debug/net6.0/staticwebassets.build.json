@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gq+4jsudT+vmUIV+2NkpFQ1wBJtIfxj+mDQkYPzp0p4=",
+  "Hash": "h7hZegwg5A1MquFK6GEzh5IUFatVfmn0S05fvcw7Sr4=",
   "Source": "ShoppingWithBetty",
   "BasePath": "_content/ShoppingWithBetty",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "C:\\Users\\betty\\Documents\\bootcamp\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingWithBetty.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\betty\\Documents\\bootcamp\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\wwwroot\\css\\BootrapBg.css",
+      "Identity": "C:\\Users\\betty\\Documents\\bootcamp\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\wwwroot\\css\\BootstrapBg.css",
       "SourceId": "ShoppingWithBetty",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\betty\\Documents\\bootcamp\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\wwwroot\\",
       "BasePath": "_content/ShoppingWithBetty",
-      "RelativePath": "css/BootrapBg.css",
+      "RelativePath": "css/BootstrapBg.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\BootrapBg.css"
+      "OriginalItemSpec": "wwwroot\\css\\BootstrapBg.css"
     },
     {
       "Identity": "C:\\Users\\betty\\Documents\\bootcamp\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\wwwroot\\css\\site.css",
