@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZqgU81UKXRDUPUoFfWPHrNetHGZeHUSFbS9v49MQd/b0P9Y5xlaIR+ScEgeCDa8oC5Uo5d35dF/QCJitHxrIsQ==",
+  "dgSpecHash": "Cv4JaHjsD1ULKoG8TTsLXkx4bE6QWfgSwaN38aPfK/JPlICz4cazmVxPu5RFJPF7i0ZN5AeVI32z7IAih1cETQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\betty\\Documents\\bootcamp\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.csproj",
   "expectedPackageFiles": [
@@ -55,6 +55,7 @@
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.10\\microsoft.entityframeworkcore.design.6.0.10.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.10\\microsoft.entityframeworkcore.relational.6.0.10.nupkg.sha512",
+    "C:\\Users\\betty\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.6\\microsoft.entityframeworkcore.relational.design.1.1.6.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.10\\microsoft.entityframeworkcore.tools.6.0.10.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
