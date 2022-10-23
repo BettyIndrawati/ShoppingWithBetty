@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XOhijRrFk/WPSA3ux61ORfI3hWXZBPa4M61NA9ndfNUagp3NORyr9j2TPObpRWFAvNDSv/myEOUD9IJs5n2MUw==",
+  "dgSpecHash": "EyiI1ArL1Dm9g42ouqETZLNh6a/t9R162G6bk5gIw1STw25+ptiHx+DC51y2XV+xQK3XIg8hn9rbzw63mg/VRw==",
   "success": true,
   "projectFilePath": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.Utility\\ShoppingWithBetty.Utility.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\betty\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\betty\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\betty\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.entityframeworkcore\\1.1.6\\microsoft.entityframeworkcore.1.1.6.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\1.1.6\\microsoft.entityframeworkcore.relational.1.1.6.nupkg.sha512",
@@ -91,6 +94,7 @@
     "C:\\Users\\betty\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\betty\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",

@@ -11,7 +11,6 @@ namespace ShoppingWithBetty.Models
         public string Name { get; set; }
         [DisplayName("Display Order")]
         public int DisplayOrder { get; set; }
-        public DateTime CreatedOn { get; set; } = DateTime.Now;
-
+        public DateTime CreatedOn { get; set; } = DateTime.UtcNow;
     }
 }
