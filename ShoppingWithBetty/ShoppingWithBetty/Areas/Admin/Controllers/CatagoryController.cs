@@ -25,18 +25,26 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
             return View(catagoryVM);
         }
 
-        //[HttpGet]
-        //public IActionResult CreateUpdate(int? id)
-        //{
-        //    CatagoryVM vm = new CatagoryVM();
-        //    if (id == null || id == 0)
-        //    {
-        //        return View(vm);
-        //    }
-        //    else
-        //    {
-        //        vm.Catagory = _unitOfRole.Catagory.GetT(s => s.Id == id)
-        //    }
-        //}
+        [HttpGet]
+        public IActionResult CreateUpdate(int? id)
+        {
+            CatagoryVM vm = new CatagoryVM();
+            if (id == null || id == 0)
+            {
+                return View(vm);
+            }
+            else
+            {
+                vm.Catagory = _unitOfRole.Catagory.GetT(s => s.Id == id);
+                if(vm.Catagory== null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    return View(vm);
+                }
+            }
+        }
     }
 }
