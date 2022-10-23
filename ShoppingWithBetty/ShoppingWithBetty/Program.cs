@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ShoppingWithBetty.DataAccess.Data;
+using ShoppingWithBetty.DataAccess.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(OptionsBuilderConfigurationE
 {
     OptionsBuilderConfigurationExtensions.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddScoped<IUnitOfRole, UnitOfRole>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

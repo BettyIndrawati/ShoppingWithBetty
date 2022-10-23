@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cv4JaHjsD1ULKoG8TTsLXkx4bE6QWfgSwaN38aPfK/JPlICz4cazmVxPu5RFJPF7i0ZN5AeVI32z7IAih1cETQ==",
+  "dgSpecHash": "qq19XkUVUHecI+qdKevlnBo3EKpLiLko8WvhtmgeEbG0fHElHu9SublPo21riOyqDGh92/AJHs3SECDUQh9ghQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\betty\\Documents\\bootcamp\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.csproj",
+  "projectFilePath": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\betty\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

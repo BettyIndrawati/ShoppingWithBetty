@@ -26,3 +26,17 @@ C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWi
 C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.pdb
 C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.genruntimeconfig.cache
 C:\Users\betty\Documents\bootcamp\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ref\ShoppingWithBetty.Models.dll
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\bin\Debug\net6.0\ShoppingWithBetty.Models.deps.json
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\bin\Debug\net6.0\ShoppingWithBetty.Models.runtimeconfig.json
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\bin\Debug\net6.0\ShoppingWithBetty.Models.dll
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\bin\Debug\net6.0\ShoppingWithBetty.Models.pdb
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.csproj.AssemblyReference.cache
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.AssemblyInfoInputs.cache
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.AssemblyInfo.cs
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.csproj.CoreCompileInputs.cache
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.dll
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\refint\ShoppingWithBetty.Models.dll
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.pdb
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ShoppingWithBetty.Models.genruntimeconfig.cache
+E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Models\obj\Debug\net6.0\ref\ShoppingWithBetty.Models.dll
