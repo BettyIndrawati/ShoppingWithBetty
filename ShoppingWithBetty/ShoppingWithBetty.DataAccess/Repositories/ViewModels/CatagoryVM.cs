@@ -10,6 +10,6 @@ namespace ShoppingWithBetty.DataAccess.Repositories.ViewModels
     public class CatagoryVM
     {
         public Catagory Catagory { get; set; } = new Catagory();
-        public IEnumerable<Catagory> catagories { get; set; }= new List<Catagory>();
+        public IEnumerable<Catagory> Catagories { get; set; }= new List<Catagory>();
     }
 }

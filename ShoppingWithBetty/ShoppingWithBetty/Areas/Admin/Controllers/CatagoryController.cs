@@ -22,7 +22,7 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
         public IActionResult Index()
         {
             CatagoryVM catagoryVM = new CatagoryVM();
-            catagoryVM.catagories = _unitOfRole.Catagory.GetAll();
+            catagoryVM.Catagories = _unitOfRole.Catagory.GetAll();
             return View(catagoryVM);
         }
 

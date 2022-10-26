@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NCAa297bw4ucEpI+fTCsfnTOz/si6mcwGEjZtiAb1Uo=",
+  "Hash": "hIhvbKxmCHjl1VQM1U2K9kmRkOtUCrA6Btw9NW7ymhU=",
   "Source": "ShoppingWithBetty",
   "BasePath": "_content/ShoppingWithBetty",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\wwwroot\\js\\Product.js",
+      "SourceId": "ShoppingWithBetty",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\wwwroot\\",
+      "BasePath": "_content/ShoppingWithBetty",
+      "RelativePath": "js/Product.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Product.js"
     },
     {
       "Identity": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\wwwroot\\js\\site.js",
