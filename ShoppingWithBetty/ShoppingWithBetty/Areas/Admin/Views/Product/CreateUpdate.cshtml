@@ -1,11 +1,11 @@
 ﻿@model ShoppingWithBetty.DataAccess.Repositories.ViewModels.ProductVM
-<form method="post" asp-action="CreateUpdate">
+<form method="post" asp-action="CreateUpdate" encypte="multipart/form-data">
     <input type="hidden" asp-for="Product.Id"/>
     <input type="hidden" asp-for="Product.ImageUrl"/>
     <img src="@Model.Product.ImageUrl" width="100" height="100"/>
     <div class="border p-3 mt-4">
         <div class="row pb-3">
-            <h2 class="text-primary">@((Model.Product == null || Model.Product.Id == 0) ? "Create" : "Update") Product</h2>
+            <h2 class="text-primary">@((Model.Product == null || Model.Product.Id == 0)?"Create" : "Update") Product</h2>
             <hr/>
         </div>
         <div asp-validation-summary=All></div>
@@ -18,9 +18,9 @@
 
         <div class="row mb-3">
             <label asp-for="Product.Description"></label>
-            <input asp-for="Product.Description" class="form-control" />
+            <textarea asp-for="Product.Description" class="form-control"></textarea> 
             <span asp-validation-for="Product.Description" class="text-danger"></span>
-
+        </div>
         <div class="row mb-3">
             <label asp-for="Product.Price"></label>
             <input asp-for="Product.Price" class="form-control" />
@@ -38,7 +38,7 @@
             <span asp-validation-for="Product.CatagoryId" class="text-danger"></span>
         </div>
 
-        @if (Model.Product == null || Model.Product.Id == 0)
+        @if (Model.Product==null || Model.Product.Id == 0)
         {
             <button class="btn btn-primary" onclick="return ValidateEmpty()" type="submit">Create</button>
         }
@@ -64,8 +64,8 @@
     });
   
 
- function ValidateEmpty()
-{
+     function ValidateEmpty()
+    {
     if(document.getElementById("ImageFile").value=="")
     {
          Swal.fire
@@ -77,6 +77,6 @@
            return false;
     }
     return true;
-}
+    }
     </script>
-}   
+    }   

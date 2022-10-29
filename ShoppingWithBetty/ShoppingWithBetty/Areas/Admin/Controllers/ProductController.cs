@@ -47,7 +47,7 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
         {
             ProductVM vm = new ProductVM()
             {
-                Product = new Product(),
+                Product = new(),
                 Catagories = _unitOfRole.Catagory.GetAll().Select(x =>
             new SelectListItem()
             {
@@ -88,11 +88,11 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
 
                     if (vm.Product.ImageUrl != null)
                     {
-                        var GambarLama = Path.Combine(_hostingEnvironment.WebRootPath, vm.Product.ImageUrl.TrimStart('\\'));
-                            if (System.IO.File.Exists(GambarLama))
-                        {
-                            System.IO.File.Delete(GambarLama);
-                        }
+                        var GambarLamaPath = Path.Combine(_hostingEnvironment.WebRootPath, vm.Product.ImageUrl.TrimStart('\\'));
+                            if (System.IO.File.Exists(GambarLamaPath))
+                            {
+                                System.IO.File.Delete(GambarLamaPath);
+                            }
                     }
                     using (var fileStream = new FileStream(filePath, FileMode.Create))
                     {
@@ -125,7 +125,7 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
         [HttpDelete]
         public IActionResult Delete(int? id)
         {
-                var product = _unitOfRole.Product.GetT(x => x.Id == id);
+            var product = _unitOfRole.Product.GetT(x => x.Id == id);
             if (product == null)
             {
                 return Json(new { success = false, message = "Error Fatching" });

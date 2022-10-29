@@ -22,3 +22,15 @@ E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debu
 E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\refint\ShoppingWithBetty.Utility.dll
 E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.pdb
 E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ref\ShoppingWithBetty.Utility.dll
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\bin\Debug\net6.0\ShoppingWithBetty.Utility.deps.json
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\bin\Debug\net6.0\ShoppingWithBetty.Utility.dll
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\bin\Debug\net6.0\ShoppingWithBetty.Utility.pdb
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.csproj.AssemblyReference.cache
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.AssemblyInfoInputs.cache
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.AssemblyInfo.cs
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.csproj.CoreCompileInputs.cache
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.dll
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\refint\ShoppingWithBetty.Utility.dll
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ShoppingWithBetty.Utility.pdb
+E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty.Utility\obj\Debug\net6.0\ref\ShoppingWithBetty.Utility.dll

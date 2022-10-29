@@ -8,77 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShoppingWithBetty
 build_property.RootNamespace = ShoppingWithBetty
-build_property.ProjectDir = E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty\
+build_property.ProjectDir = E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Projek\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty
+build_property.MSBuildProjectDirectory = E:\Projek1\ShoppingWithBetty\ShoppingWithBetty\ShoppingWithBetty
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/CreateUpdate.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/CreateUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWdvcnlcQ3JlYXRlVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/Delete.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/Index.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/_ValidationScriptsPartial.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Catagory/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWdvcnlcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Product/CreateUpdate.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Product/CreateUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGVVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Product/Index.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/_ViewImports.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/_ViewStart.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/Home/Index.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/Home/Privacy.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/_ViewImports.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/_ViewStart.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Areas/Customer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/Shared/Error.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/_ViewImports.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/_ViewStart.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Projek/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/Shared/_Layout.cshtml]
+[E:/Projek1/ShoppingWithBetty/ShoppingWithBetty/ShoppingWithBetty/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ut312n2lmn

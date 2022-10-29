@@ -7425,11 +7425,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.DataAccess\\ShoppingWithBetty.DataAccess.csproj",
+      "projectUniqueName": "E:\\Projek1\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.DataAccess\\ShoppingWithBetty.DataAccess.csproj",
       "projectName": "ShoppingWithBetty.DataAccess",
-      "projectPath": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.DataAccess\\ShoppingWithBetty.DataAccess.csproj",
+      "projectPath": "E:\\Projek1\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.DataAccess\\ShoppingWithBetty.DataAccess.csproj",
       "packagesPath": "C:\\Users\\betty\\.nuget\\packages\\",
-      "outputPath": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.DataAccess\\obj\\",
+      "outputPath": "E:\\Projek1\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7451,8 +7451,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.Models\\ShoppingWithBetty.Models.csproj": {
-              "projectPath": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.Models\\ShoppingWithBetty.Models.csproj"
+            "E:\\Projek1\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.Models\\ShoppingWithBetty.Models.csproj": {
+              "projectPath": "E:\\Projek1\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.Models\\ShoppingWithBetty.Models.csproj"
             }
           }
         }
