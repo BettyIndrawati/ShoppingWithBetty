@@ -255,7 +255,7 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<int>("CatagoryId1")
+                    b.Property<int>("CatagoryId")
                         .HasColumnType("integer");
 
                     b.Property<string>("Description")
@@ -275,7 +275,7 @@ namespace ShoppingWithBetty.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CatagoryId1");
+                    b.HasIndex("CatagoryId");
 
                     b.ToTable("Products");
                 });
@@ -335,7 +335,7 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                 {
                     b.HasOne("ShoppingWithBetty.Models.Catagory", "Catagory")
                         .WithMany()
-                        .HasForeignKey("CatagoryId1")
+                        .HasForeignKey("CatagoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

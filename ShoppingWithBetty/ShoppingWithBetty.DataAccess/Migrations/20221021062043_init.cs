@@ -179,15 +179,14 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                     Name = table.Column<string>(type: "text", nullable: false),
                     Price = table.Column<double>(type: "double precision", nullable: false),
                     ImageUrl = table.Column<string>(type: "text", nullable: false),
-                    CatagoryId = table.Column<string>(type: "text", nullable: false),
-                    CatagoryId1 = table.Column<int>(type: "integer", nullable: false)
+                    CatagoryId = table.Column<int>(type: "integer", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Products", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Products_Catagories_CatagoryId1",
-                        column: x => x.CatagoryId1,
+                        name: "FK_Products_Catagories_CatagoryId",
+                        column: x => x.CatagoryId,
                         principalTable: "Catagories",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -231,9 +230,9 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                 unique: true);
 
             migrationBuilder.CreateIndex(
-                name: "IX_Products_CatagoryId1",
+                name: "IX_Products_CatagoryId",
                 table: "Products",
-                column: "CatagoryId1");
+                column: "CatagoryId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
