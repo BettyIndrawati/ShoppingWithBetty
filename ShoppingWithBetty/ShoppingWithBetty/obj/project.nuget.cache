@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YH8/6pmbzUfGPpKbm7kMj3D4KjiYNC+Xg1gbd3HxO4jDbMqWXwmNo8u+snZkNBmV0fmHwj+O5ABdL7YLPm5XmQ==",
+  "dgSpecHash": "7lvSIgyqSm5OXPQMK7qFwEP2HxSsmyLy9ndzjsoaQD4zhOvei5f6xSZUGfH3I9s4HVCG3SY95v90tHRNebVC/A==",
   "success": true,
-  "projectFilePath": "E:\\Projek1\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.csproj",
+  "projectFilePath": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\betty\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

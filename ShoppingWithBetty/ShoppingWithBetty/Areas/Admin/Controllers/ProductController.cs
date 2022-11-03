@@ -1,12 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Build.Tasks.Deployment.Bootstrapper;
-using NPoco.Expressions;
-using OpenXmlPowerTools;
 using ShoppingWithBetty.DataAccess.Repositories;
 using ShoppingWithBetty.DataAccess.Repositories.ViewModels;
-using ShoppingWithBetty.Models;
-using Product = ShoppingWithBetty.Models.Product;
+
 
 namespace ShoppingWithBetty.Areas.Admin.Controllers
 {
@@ -32,8 +29,6 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            //CatagoryVM catagoryVM = new CatagoryVM();
-            //catagoryVM.Catagories = _unitOfRole.Catagory.GetAll();
             return View();
         }
 
@@ -101,7 +96,7 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
                     vm.Product.ImageUrl = @"\ProductImage\" + fileName;
 
                 }
-                if (vm.Product.Id == 0)
+                if (vm.Product.Id == 0 || vm.Product.Id == null)
                 {
                     _unitOfRole.Product.Add(vm.Product);
                     TempData["success"] = "Product Created Done!";
@@ -135,12 +130,13 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
                 var GambarLamaPath = Path.Combine(_hostingEnvironment.WebRootPath, product.ImageUrl.TrimStart('\\'));
                 if (System.IO.File.Exists(GambarLamaPath))
                 {
-                    System.IO.File.Delete(GambarLamaPath);  
+                    System.IO.File.Delete(GambarLamaPath);
                 }
                 _unitOfRole.Product.Delete(product);
                 _unitOfRole.Save();
                 return Json(new { success = true, message = "Product Deleted" });
             }
+        
             
         }
 

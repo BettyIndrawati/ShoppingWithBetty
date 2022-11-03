@@ -12,8 +12,8 @@ using ShoppingWithBetty.DataAccess.Data;
 namespace ShoppingWithBetty.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221023142446_datetimeutc")]
-    partial class datetimeutc
+    [Migration("20221031031018_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -255,7 +255,7 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<int>("CatagoryId")
+                    b.Property<int>("CatagoryId1")
                         .HasColumnType("integer");
 
                     b.Property<string>("Description")
@@ -275,7 +275,7 @@ namespace ShoppingWithBetty.DataAccess.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CatagoryId");
+                    b.HasIndex("CatagoryId1");
 
                     b.ToTable("Products");
                 });
@@ -335,7 +335,7 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                 {
                     b.HasOne("ShoppingWithBetty.Models.Catagory", "Catagory")
                         .WithMany()
-                        .HasForeignKey("CatagoryId")
+                        .HasForeignKey("CatagoryId1")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

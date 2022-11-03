@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kSzBVnTF2NmN94ExfJNRt88uZ/7+wxHw+OzdhfxoSAFa/0P9sCmG7V5xLKn9Vt4Zyniy3m+L7W+bspNhR2rdPw==",
+  "dgSpecHash": "7zZN1Nug9Y5bNVj62qSTPBgvnwhc4OKYncmWJVgH7zJ6z1ExOIOW9eVZzsnVRaxq7vpzVR2wFbQn3oXF68h54Q==",
   "success": true,
-  "projectFilePath": "E:\\Projek1\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.Models\\ShoppingWithBetty.Models.csproj",
+  "projectFilePath": "E:\\Projek\\ShoppingWithBetty\\ShoppingWithBetty\\ShoppingWithBetty.Models\\ShoppingWithBetty.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\betty\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\betty\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

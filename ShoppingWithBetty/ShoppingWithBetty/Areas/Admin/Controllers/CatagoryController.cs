@@ -22,7 +22,7 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
         public IActionResult Index()
         {
             CatagoryVM catagoryVM = new CatagoryVM();
-            catagoryVM.Catagories = _unitOfRole.Catagory.GetAll();
+            catagoryVM.catagories = _unitOfRole.Catagory.GetAll();
             return View(catagoryVM);
         }
 
@@ -36,7 +36,7 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
             }
             else
             {
-                vm.Catagory = _unitOfRole.Catagory.GetT(s => s.Id == id);
+                vm.Catagory = _unitOfRole.Catagory.GetT(x => x.Id == id);
                 if(vm.Catagory== null)
                 {
                     return NotFound();
@@ -79,7 +79,7 @@ namespace ShoppingWithBetty.Areas.Admin.Controllers
             }
             else
             {
-                var catagory = _unitOfRole.Catagory.GetT(s => s.Id == id);
+                var catagory = _unitOfRole.Catagory.GetT(x => x.Id == id);
                 if (catagory == null)
                 {
                     return NotFound();

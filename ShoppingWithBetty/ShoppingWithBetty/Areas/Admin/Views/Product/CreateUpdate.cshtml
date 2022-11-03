@@ -1,6 +1,6 @@
 ﻿@model ShoppingWithBetty.DataAccess.Repositories.ViewModels.ProductVM
 <form method="post" asp-action="CreateUpdate" encypte="multipart/form-data">
-    <input type="hidden" asp-for="Product.Id"/>
+    <input type="hidden" id="prdId" asp-for="Product.Id"/>
     <input type="hidden" asp-for="Product.ImageUrl"/>
     <img src="@Model.Product.ImageUrl" width="100" height="100"/>
     <div class="border p-3 mt-4">
@@ -28,11 +28,11 @@
         </div>
         <div class="row mb-3">
             <label asp-for="Product.ImageUrl"></label>
-            <input type="file" id="ImageFile" class="form-select" />
+            <input type="file" id="ImageFile" name="file" class="form-select" />
         </div>
         <div class="row mb-3">
             <label asp-for="Product.CatagoryId"></label>
-            <select> asp-for="Product.CatagoryId" asp-items="@Model.Catagories"
+            <select id="listCategory" asp-for="Product.CatagoryId" asp-items="@Model.Catagories">
                 <option selected disabled>--Select Catagory--</option>
             </select>
             <span asp-validation-for="Product.CatagoryId" class="text-danger"></span>

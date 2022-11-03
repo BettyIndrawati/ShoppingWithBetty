@@ -178,15 +178,17 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     Name = table.Column<string>(type: "text", nullable: false),
                     Price = table.Column<double>(type: "double precision", nullable: false),
+                    Description = table.Column<string>(type: "text", nullable: false),
                     ImageUrl = table.Column<string>(type: "text", nullable: false),
-                    CatagoryId = table.Column<int>(type: "integer", nullable: false)
+                    CatagoryId = table.Column<string>(type: "text", nullable: false),
+                    CatagoryId1 = table.Column<int>(type: "integer", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Products", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Products_Catagories_CatagoryId",
-                        column: x => x.CatagoryId,
+                        name: "FK_Products_Catagories_CatagoryId1",
+                        column: x => x.CatagoryId1,
                         principalTable: "Catagories",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
@@ -230,9 +232,9 @@ namespace ShoppingWithBetty.DataAccess.Migrations
                 unique: true);
 
             migrationBuilder.CreateIndex(
-                name: "IX_Products_CatagoryId",
+                name: "IX_Products_CatagoryId1",
                 table: "Products",
-                column: "CatagoryId");
+                column: "CatagoryId1");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
